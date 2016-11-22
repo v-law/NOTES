@@ -1,0 +1,2 @@
+# NOTES
+notes on github
